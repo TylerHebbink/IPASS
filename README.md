@@ -1,1 +1,1 @@
-# IPASS VMG
+# IPASS VMC
